@@ -14,19 +14,13 @@ const Contact = () => {
             <div className="space-y-4">
               <div>
                 <h3 className="text-xl font-bold text-primary mb-2">Email</h3>
-                <a href="mailto:john.doe@example.com" className="text-muted-foreground hover:text-primary transition-colors">
-                  john.doe@example.com
-                </a>
-              </div>
-              <div>
-                <h3 className="text-xl font-bold text-primary mb-2">Phone</h3>
-                <a href="tel:+1234567890" className="text-muted-foreground hover:text-primary transition-colors">
-                  +1 (234) 567-890
+                <a href="mailto:aayushkumarsinghhh@gmail.com" className="text-muted-foreground hover:text-primary transition-colors">
+                  aayushkumarsinghhh@gmail.com
                 </a>
               </div>
               <div>
                 <h3 className="text-xl font-bold text-primary mb-2">Location</h3>
-                <p className="text-muted-foreground">San Francisco, CA</p>
+                <p className="text-muted-foreground">Delhi, India</p>
               </div>
             </div>
 
@@ -54,7 +48,7 @@ const Contact = () => {
         </div>
 
         <div className="text-center mt-12 text-muted-foreground">
-          <p>© 2024 John Doe. All rights reserved.</p>
+          <p>© 2025 Aayush Kumar Singh. All rights reserved.</p>
         </div>
       </div>
     </section>
