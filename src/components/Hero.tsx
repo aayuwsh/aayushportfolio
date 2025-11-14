@@ -1,7 +1,16 @@
+import profileImage from "@/assets/profile.jpg";
+
 const Hero = () => {
   return (
     <section id="home" className="min-h-screen flex items-center justify-center px-6 py-20">
       <div className="max-w-4xl w-full text-center space-y-8">
+        <div className="flex justify-center mb-8">
+          <img 
+            src={profileImage} 
+            alt="Aayush Kumar Singh" 
+            className="w-48 h-48 rounded-full object-cover border-4 border-primary glow-effect"
+          />
+        </div>
         <div className="space-y-4">
           <h1 className="text-6xl md:text-8xl font-bold tracking-tight">
             <span className="text-gradient">Aayush Kumar Singh</span>
