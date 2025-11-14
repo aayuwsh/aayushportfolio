@@ -1,24 +1,14 @@
 const Achievements = () => {
   const achievements = [
     {
-      year: "2024",
-      title: "Senior Developer Promotion",
-      description: "Promoted to Senior Full Stack Developer role, leading a team of 5 developers on enterprise projects."
-    },
-    {
-      year: "2023",
-      title: "Best Innovation Award",
-      description: "Received company-wide innovation award for developing an AI-powered solution that increased efficiency by 40%."
-    },
-    {
-      year: "2022",
+      year: "2025",
       title: "Open Source Contribution",
-      description: "Became a core contributor to popular React UI library with over 10K+ stars on GitHub."
+      description: "Became a core contributor to popular React UI library with over 1K+ stars on GitHub."
     },
     {
-      year: "2021",
-      title: "Certification Achievement",
-      description: "Completed AWS Solutions Architect and Google Cloud Professional certifications."
+      year: "2025",
+      title: "Expert at CODEFORCES",
+      description: "Achieved Expert rating at CODEFORCES, demonstrating strong problem-solving and competitive programming skills."
     }
   ];
 

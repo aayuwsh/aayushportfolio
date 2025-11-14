@@ -1,39 +1,21 @@
 const Projects = () => {
   const projects = [
     {
-      title: "E-Commerce Platform",
-      description: "Full-stack e-commerce solution with payment integration, inventory management, and admin dashboard.",
-      technologies: ["React", "Node.js", "PostgreSQL", "Stripe"],
+      title: "Amazon Clone",
+      description: "A fully functional e-commerce website clone inspired by Amazon, featuring product listings and shopping cart functionality.",
+      technologies: ["HTML", "CSS", "JavaScript"],
       link: "#"
     },
     {
-      title: "Task Management App",
-      description: "Collaborative project management tool with real-time updates, team chat, and analytics.",
-      technologies: ["Next.js", "MongoDB", "WebSocket", "Tailwind"],
+      title: "Spotify Clone",
+      description: "Music streaming platform clone with playlist management and audio player interface, mimicking Spotify's design.",
+      technologies: ["HTML", "CSS", "JavaScript"],
       link: "#"
     },
     {
-      title: "AI Content Generator",
-      description: "AI-powered content creation tool leveraging machine learning for blog posts and social media.",
-      technologies: ["Python", "OpenAI", "React", "FastAPI"],
-      link: "#"
-    },
-    {
-      title: "Analytics Dashboard",
-      description: "Business intelligence dashboard with interactive charts, data visualization, and reporting.",
-      technologies: ["TypeScript", "D3.js", "Express", "Redis"],
-      link: "#"
-    },
-    {
-      title: "Social Media App",
-      description: "Modern social networking platform with posts, stories, messaging, and user profiles.",
-      technologies: ["React Native", "GraphQL", "AWS", "DynamoDB"],
-      link: "#"
-    },
-    {
-      title: "Portfolio CMS",
-      description: "Headless CMS for managing portfolio content with drag-and-drop editor and API access.",
-      technologies: ["Vue.js", "Strapi", "MySQL", "Docker"],
+      title: "Restaurant Website",
+      description: "Modern restaurant website with menu showcase, reservation system, and responsive design for seamless user experience.",
+      technologies: ["HTML", "CSS", "JavaScript"],
       link: "#"
     }
   ];
